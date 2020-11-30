@@ -1,2 +1,2 @@
 # code-refactor-homework
-First Homework
+This is the first weeks homework assignment.
